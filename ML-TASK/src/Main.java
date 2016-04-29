@@ -3,7 +3,11 @@ public class Main {
 
 	public static void main(String[] args) {
 
-	// a csoda itt lesz LOL :)
+	
+		Prediction pred = new Prediction();
+		
+		pred.initDataSources();
+		
 	}
 
 }
