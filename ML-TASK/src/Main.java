@@ -5,8 +5,7 @@ public class Main {
 
 	
 		Prediction pred = new Prediction();
-		
-		pred.initDataSources();
+		pred.calculateSMO();
 		
 	}
 
